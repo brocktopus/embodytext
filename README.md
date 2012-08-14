@@ -10,12 +10,12 @@ Structure
 ---------
 
 project root
- |
- +- embody-dekaaz
- |
- +- embody-text
- |
- +- emBody-tweets (?)
+  |
+  +- embody-dekaaz
+  |
+  +- embody-text
+  |
+  +- emBody-tweets (?)
 
 1. __embody-dekaaz__ visualizes Twitter-based 'dekaaz', a poetic style invented by Rachel Bagby.
 2. __embody-text__ visualizes ee cummings' "in the garden".
